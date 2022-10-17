@@ -13,3 +13,4 @@ Predict ride-hailing apps prices
 - code: Group 28.ipynb
 - normalized database: normalized.db
 - report: Final Report.pdf
+- The raw data "cab_rides.csv" is too big to upload here. So, please refer to the following Kaggle link. https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices?select=cab_rides.csv
