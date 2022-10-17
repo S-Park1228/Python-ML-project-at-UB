@@ -1,4 +1,8 @@
-# Ride-Hailing-Apps-Pricing-Analysis-and-Prediction
+# Python ML project at UB
+- Construct a database in BCNF (Boyce-Codd Normal Form) using sqlite3 library.
+- Predict ride-hailing apps prices.
+
+# Project: Ride Hailing Apps Pricing Analysis and Prediction
 Predict ride-hailing apps prices
 - class: EAS 503 Programming and Database Fundamentals for Data Scientists
 - semester: Fall 2021
